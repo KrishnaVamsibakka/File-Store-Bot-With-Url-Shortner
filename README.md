@@ -55,7 +55,7 @@ Use these settings when adding a monitor:</b>
 ### Deploy On Koyeb
 <details><summary>Deploy To Koyeb</summary>
 <br>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/File-Store-Bot-With-Url-Shortner&branch=main&name=filestorevj"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/krishnavamsibakka/File-Store-Bot-With-Url-Shortner&branch=main&name=filestorevj"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 </details>
 
 ### Demo Bot:
