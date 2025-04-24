@@ -82,7 +82,7 @@ async def start(bot: Client, cmd: Message):
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/pokemonallseasonsintelugu"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/+6LCsmRJam5djYzZl"),
                         InlineKeyboardButton("YouTube Channel", url="")
                     ]
                 ]
