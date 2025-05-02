@@ -25,7 +25,7 @@
             "description": "Cartoonworldtelugu_india09_bot"
         },
         "DB_CHANNEL": {
-            "description": ""
+            "description": "-1002526508320")"
         },
         "SHORTLINK_URL": {
             "description": "Moneykamalo.com"
@@ -34,10 +34,10 @@
             "description": ""
         },
         "BOT_OWNER": {
-            "description": ""
+            "description": "6828129421"
         },
         "DATABASE_URL": {
-            "description": ""
+            "description": "mongodb+srv://anjireddyb98:3qiaVJINXarqFNKp@cluster0.kohnpcd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "UPDATES_CHANNEL": {
             "description": "",
