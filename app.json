@@ -31,7 +31,7 @@
             "description": "Moneykamalo.com"
         },
         "SHORTLINK_API": {
-            "description": ""
+            "description": "0eefb93e1e3ce9470a7033115ceb1bad13a9d674"
         },
         "BOT_OWNER": {
             "description": "6828129421"
@@ -40,11 +40,11 @@
             "description": "mongodb+srv://anjireddyb98:3qiaVJINXarqFNKp@cluster0.kohnpcd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "UPDATES_CHANNEL": {
-            "description": "",
+            "description": "-1002024495069",
             "required": true
         },
         "LOG_CHANNEL": {
-            "description": ""
+            "description": "-1002556802708"
         }
     },
     "buildpacks": [
