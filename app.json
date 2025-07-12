@@ -44,7 +44,7 @@
             "required": true
         },
         "LOG_CHANNEL": {
-            "description": ""
+            "description": "-1002630777690"
         }
     },
     "buildpacks": [
