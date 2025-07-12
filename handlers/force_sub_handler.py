@@ -19,9 +19,9 @@ async def get_invite_link(bot: Client, chat_id: Union[str, int]):
 
 
 async def handle_force_sub(bot: Client, cmd: Message):
-    if Config.UPDATES_CHANNEL and Config.UPDATES_CHANNEL.startswith("-100"):
+    if Config.UPDATES_CHANNEL and Config.UPDATES_CHANNEL.startswith("-1002024495069"):
         channel_chat_id = int(Config.UPDATES_CHANNEL)
-    elif Config.UPDATES_CHANNEL and (not Config.UPDATES_CHANNEL.startswith("-100")):
+    elif Config.UPDATES_CHANNEL and (not Config.UPDATES_CHANNEL.startswith("-1002024495069")):
         channel_chat_id = Config.UPDATES_CHANNEL
     else:
         return 200
