@@ -19,19 +19,19 @@
             "description": "a6d154242eaef80a163bf5d0a7763882"
         },
         "BOT_TOKEN": {
-            "description": "7795414140:AAHPYxU-Yc7AJ3KcR-zWZmqFOYd4C_mNItQ"
+            "description": "8178307547:AAHx8tkXwi79zmWY3ONk5GOaeV61Dm1i_aM"
         },
         "BOT_USERNAME": {
-            "description": "Cartoonworldtelugu_india09_bot"
+            "description": "Cartoonworldtelugu_india_bot"
         },
         "DB_CHANNEL": {
             "description": "-1002526508320")"
         },
         "SHORTLINK_URL": {
-            "description": "Moneykamalo.com"
+            "description": "Gplinks.com"
         },
         "SHORTLINK_API": {
-            "description": "0eefb93e1e3ce9470a7033115ceb1bad13a9d674"
+            "description": ""
         },
         "BOT_OWNER": {
             "description": "6828129421"
@@ -44,7 +44,7 @@
             "required": true
         },
         "LOG_CHANNEL": {
-            "description": "-1002556802708"
+            "description": ""
         }
     },
     "buildpacks": [
